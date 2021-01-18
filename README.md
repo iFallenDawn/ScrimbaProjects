@@ -6,3 +6,4 @@ Progress as far as I can in the course within the first 30 days of the subscript
 
 ### Changelog/Progress
 1/18/21 - Start of the repo and the course. Finished the intro module and working through HTML/CSS Basics and its challenges.
+* Finished HTML/CSS Challenges 1-6.
