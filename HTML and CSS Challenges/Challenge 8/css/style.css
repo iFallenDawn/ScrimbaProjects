@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 10px;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 72px;
+    color: #FFF;
+    background-color: #281B2D;
+}
+
+.subheading {
+    padding: 20px;
+    font-size: 48px;
+    color: #FCD801;
+    background-color: #281B2D;
+    border-bottom: #00C54C 4px solid;
+}
+
+.container {
+    /* border: solid 2px red; */
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.subheading-white {
+    color: white;
+}
