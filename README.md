@@ -15,4 +15,6 @@ Progress as far as I can in the course within the first 30 days of the subscript
 * Removed times from logs as they are not neccessary. 
 * Finished "Into to Javascript" lesson.
 * Renamed folders to correspond with modules.
-
+<!---->
+**1/20/21** - Started "Intro to Loops" lesson in Module 3.
+* Finished Intro to Loops lesson.
