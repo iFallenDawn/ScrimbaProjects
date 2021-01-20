@@ -9,7 +9,7 @@ Progress as far as I can in the course within the first 30 days of the subscript
 * Finished HTML/CSS Challenges 1-6
 * Finished HTML/CSS Challenges 7-10
 * Completed Module 1 and 2.
-
+<!---->
 **1/19/21** - Started Module 3, Making Websites Interactive.
 * Finished "Your First Interactive Website" lesson.
 * Removed times from logs as they are not neccessary. 
