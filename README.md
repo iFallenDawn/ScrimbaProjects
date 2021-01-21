@@ -18,3 +18,4 @@ Progress as far as I can in the course within the first 30 days of the subscript
 <!---->
 **1/20/21** - Started "Intro to Loops" lesson in Module 3.
 * Finished Intro to Loops lesson.
+* Finished Intro to Functions and methods lesson.
