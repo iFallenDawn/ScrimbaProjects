@@ -24,3 +24,5 @@ Progress as far as I can in the course within the first 30 days of the subscript
 <!---->
 **1/22/21** - Continuing "Intro to the DOM" lesson.
 * Finished Intro to the DOM lesson.
+* Installed Node.js for 'Your personality in emojis.'
+* Finished 'Your personality in emojis.'
