@@ -1,0 +1,44 @@
+.blog-title {
+    text-align: center;
+    color: #2E7AD3;
+    margin: 45px 0px;
+}
+
+.blog-content {
+    background-color: #F1F1F1;
+    width: 450px;
+    margin: auto;
+    padding: 25px;
+}
+
+.blog-post-title {
+    color: #104C90;
+    font-size: 32px;
+    /* background-color: yellow; */
+    margin: 0;
+    text-align: left;
+}
+
+.blog-text {
+    font-size: 16px;
+    text-align: left;
+}
+
+.accent-color {
+    color: #FF8000;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.p-text {
+    margin: 9px 0px;
+}
+
+.photo {
+    margin-bottom: 25px;
+}
+
+a:hover {
+    color: orange;
+    cursor: pointer;
+}

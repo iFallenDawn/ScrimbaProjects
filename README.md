@@ -31,3 +31,6 @@ Progress as far as I can in the course within the first 30 days of the subscript
 * Finished "Build a Diary App" Lesson.
 * Completed Module 3
 * Started Module 4 "CSS & JavaScript fundamentals."
+<!---->
+**1/24/21** - Continuing module 4.
+* Completed up to "Practice Time," building an Awesome Blog from scratch.
