@@ -1,0 +1,72 @@
+/* DON'T TOUCH THIS! */
+body {
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+}
+html,body {
+	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 36px;
+	width: 100%;
+	text-transform: uppercase;
+	background: #2e354f;
+	margin: 0;
+	color: white;
+}
+
+
+.section-title {
+	text-transform: uppercase;
+}
+
+.underlined {
+	color: #ef5839;
+}
+
+.btn {
+	text-decoration: none;
+	color: white;
+	font-weight: 900;
+	background: #ef5839;
+	display: inline-block;
+}
+
+.btn:hover {
+	color: #2e354f;
+	background: #d4b44c;
+}
+/* DON'T TOUCH THIS! */
+
+/* ==========================
+	Write your solution here!
+   ========================== */
+   
+body {
+    text-align: center;
+}
+
+h1 {
+    padding: 20px 0px;
+}
+
+.container {
+    width: 60%;
+    margin: 20px auto;
+}
+
+.btn {
+    padding: 10px 25px;
+}
+
+.section-title {
+    border-bottom: solid gray 2px;
+    padding: 10px;
+}
+
+.contact-section {
+    margin-top: 75px;
+}

@@ -1,0 +1,16 @@
+/* ==========================
+	Write your solution here!
+   ========================== */
+body {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    margin: 5%;
+    width: 600px;
+}
+
+.row {
+    display: flex;
+}

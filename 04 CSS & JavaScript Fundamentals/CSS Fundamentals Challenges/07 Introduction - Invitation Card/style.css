@@ -1,0 +1,31 @@
+/* ==========================
+	Write your solution here!
+   ========================== */
+   
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.card {
+    background-color: #a6e87d;
+    padding: 20px;
+}
+
+.title {
+    font-size: 48px;
+}
+
+.info {
+    padding: 10px;        
+}
+
+.info-label {
+    font-weight: 800;
+    margin-right: 5px;
+}
+
+img {
+    width: 10%;
+}

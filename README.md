@@ -37,3 +37,6 @@ Progress as far as I can in the course within the first 30 days of the subscript
 <!---->
 **1/25/21** - Continuing module 4. Plan is to finish CSS Fundamentals Lesson by the end of the day.
 * Finished CSS Fundamentals lesson, added "CSS is a lot of fun" project to repo.
+<!---->
+**1/26/21** - Continuing module 4.
+* Finished CSS Fundamentals challenges.

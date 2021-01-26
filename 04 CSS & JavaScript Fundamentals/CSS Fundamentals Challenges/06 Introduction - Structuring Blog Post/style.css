@@ -1,0 +1,26 @@
+/* ==========================
+	Write your solution here!
+   ========================== */
+body {
+	font-family: 'Lato';
+}
+
+img {
+	margin: 20px 0;
+	width: 60%;
+}
+
+.title {
+	font-size: 48px;
+}
+.meta {
+	font-size: 14px;
+}
+
+.author, .date {
+	color: #ef5839;
+}
+
+p {
+	margin: 30px 0px;
+}

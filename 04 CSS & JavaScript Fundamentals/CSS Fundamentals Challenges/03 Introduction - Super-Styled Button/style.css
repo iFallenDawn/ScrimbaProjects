@@ -1,0 +1,28 @@
+/* DON'T TOUCH THIS! */
+body {
+   height: 100vh;
+   margin: 0;
+   padding: 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+/* DON'T TOUCH THIS! */
+
+/* ==========================
+	Write your solution here!
+   ========================== */
+
+.btn {
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	background-color: #ef5839;
+	padding: 10px 25px;
+}
+
+.btn:hover {
+	font-size: 30px;
+	background-color: #d4b44c;
+	color: #2e354f;
+}
