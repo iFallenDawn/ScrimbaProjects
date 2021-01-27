@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+/** 
+  Our buttons '#open-modal, #close-modal' 
+
+  1) For the background colour use 'royalblue'
+  2) Be aware of the colour, padding & font size
+  3) Make sure the cursor has a pointer so that it demonstrates to the user the button is clickable
+**/
+
+#open-modal, #close-modal {
+    background-color: royalblue;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#open-modal:hover, #close-modal:hover {
+    background-color: aqua;
+}
