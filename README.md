@@ -42,3 +42,4 @@ Progress as far as I can in the course within the first 30 days of the subscript
 * Finished CSS Fundamentals challenges.
 <!---->
 **1/27/21** - Continuing module 4, started JavaScript Challenges.
+* Completed Build a Modal and Build a Search Bar challenges.
