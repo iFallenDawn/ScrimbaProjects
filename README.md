@@ -43,3 +43,5 @@ Progress as far as I can in the course within the first 30 days of the subscript
 <!---->
 **1/27/21** - Continuing module 4, started JavaScript Challenges.
 * Completed Build a Modal and Build a Search Bar challenges.
+<!--  -->
+**1/28/21** - Finished JavaScript Challenges.
