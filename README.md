@@ -45,3 +45,6 @@ Progress as far as I can in the course within the first 30 days of the subscript
 * Completed Build a Modal and Build a Search Bar challenges.
 <!--  -->
 **1/28/21** - Finished JavaScript Challenges.
+<!--  -->
+**1/29/21** - Decided against making separate folders for each challenge. Began "Build a dice game"
+* Finished "Build a dice game."
