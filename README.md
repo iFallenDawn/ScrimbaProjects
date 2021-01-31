@@ -48,3 +48,7 @@ Progress as far as I can in the course within the first 30 days of the subscript
 <!--  -->
 **1/29/21** - Decided against making separate folders for each challenge. Began "Build a dice game"
 * Finished "Build a dice game."
+<!--  -->
+**1/30/21** - Began "Build a Snake game"
+<!--  -->
+**1/31/21** - Finished Module 4. Starting Module 5 "Responsive Design" tomorrow. College semester starts tomorrow as well.
