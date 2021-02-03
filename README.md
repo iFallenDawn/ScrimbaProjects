@@ -52,3 +52,9 @@ Progress as far as I can in the course within the first 30 days of the subscript
 **1/30/21** - Began "Build a Snake game"
 <!--  -->
 **1/31/21** - Finished Module 4. Starting Module 5 "Responsive Design" tomorrow. College semester starts tomorrow as well.
+<!---->
+**2/1/21** - Started module 5, spent 20-30 minutes working on it.
+<!--  -->
+**2/2/21** - Continuing module 5
+<!--  -->
+**2/3/21** - Continuing module 5
