@@ -63,3 +63,6 @@ Progress as far as I can in the course within the first 30 days of the subscript
 * Finishing videos 18-23 of Starting to think responsively.
 <!--  -->
 **2/5/21** - Interview with Con Ed (wooo), took a break for today.
+<!--  -->
+**2/6/21** - Continuing module 5
+* Finishing videos 24-30 of Starting to think responsively.
