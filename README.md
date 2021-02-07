@@ -66,3 +66,6 @@ Progress as far as I can in the course within the first 30 days of the subscript
 <!--  -->
 **2/6/21** - Continuing module 5
 * Finishing videos 24-30 of Starting to think responsively.
+<!--  -->
+**2/7/21** - Continuing module 5
+* Finishing videos 31-35 of Starting to think responsively.
