@@ -1,0 +1,47 @@
+/* DON'T TOUCH THIS! */
+
+body {
+	color: white;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+}
+
+.card {
+	width: 100%;
+	background: black;
+	padding: 30px;
+}
+
+.text {
+	font-size: 20px;
+	padding: 20px;
+}
+.title {
+	text-transform: uppercase;
+	border-bottom: 10px solid white;
+	padding: 10px;
+	width: 400px;
+	margin: 0 auto;
+}
+/* DON'T TOUCH THIS! */
+
+/* ==========================
+	Write your solution here!
+   ========================== */
+.title {
+	font-size: 3rem;
+	padding: 1em;
+}
+
+.text {
+	font-size: 1.5rem;
+	padding: 1em;
+}
+.card {
+	margin: 0 auto;
+	max-width: 800px;
+}
+   
+body {
+	margin: 0;
+}
