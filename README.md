@@ -72,3 +72,7 @@ Progress as far as I can in the course within the first 30 days of the subscript
 <!--  -->
 **2/8/21** - Continuing module 5
 * Finishing videos 36-40 of Starting to think responsively.
+<!--  -->
+**2/9/21** - Continuing module 5
+* Finishing videos 41-46 of Starting to think responsively.
+* Added a folder for Module 5 and a project, "Living the simple life."
