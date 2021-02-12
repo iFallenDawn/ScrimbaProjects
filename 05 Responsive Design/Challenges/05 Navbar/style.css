@@ -1,0 +1,86 @@
+/* **Challenge**:
+Your main goal is to take the given raw HTML and turn it into a fully functioning navbar with responsive design included.
+
+**Hints:**
+ - Remember to use responsive units!
+ - Flexbox & Media Queries will help with structure.
+
+**Topics Covered:**
+ - Flexbox
+ - Media Queries
+ - Responsive Units
+ - Responsive Typography
+ - Colors
+ - Fonts
+
+**Other Information**:
+ - Header text color: #143774
+ - Navbar background color: #F8F8F8
+ - Header font: Lora
+ - Link font: Ubuntu
+ - Link text color: #717171 */
+/* ==========================
+	Write your solution here!
+   ========================== */
+
+body {
+	margin: 0;
+}
+
+/* Layout */
+.nav, .links {
+    display: flex;
+	flex-direction: column;
+}
+
+/* Typography */
+
+.nav {
+	background-color: #F8F8F8;
+	padding: 2rem;
+	margin: 0;
+	justify-content: center;
+	align-items: center;
+}
+
+.title {
+	font-size: 2.5rem;
+	color: #143774;
+	font-family: "Lora", serif;
+	font-weight: 400;
+	margin: 1rem;
+}
+
+.links {
+	width: 60%;
+	margin: 1em;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.link {
+	color: #717171;
+	font-size: 1.25rem;
+	font-family: "Ubuntu", serif;
+	font-weight: 600;
+	text-decoration: none;
+	text-transform: uppercase;
+	align-items: center;
+	margin: 0.75em;
+}
+
+.current-page {
+	text-decoration: underline;
+}
+
+@media (min-width: 1000px) {
+	.nav {
+		flex-direction: row;
+		justify-content: space-between;
+	}
+	
+	.links {
+		flex-direction: row;
+		max-width: 50%;
+	}
+}
