@@ -154,3 +154,9 @@ Progress as far as I can in the course within the first 30 days of the subscript
 <!---->
 
 **2/11/21** - Quick detour to finish Module 10, Learn Git
+
+<!---->
+
+**2/12/21** - Continuing module 5
+
+- Starting "Stepping up our style," videos 1-10.
