@@ -160,3 +160,9 @@ Progress as far as I can in the course within the first 30 days of the subscript
 **2/12/21** - Continuing module 5
 
 - Starting "Stepping up our style," videos 1-10.
+
+<!---->
+
+**2/13/21** - Continuing module 5, Valentine's day!
+
+- Starting "Stepping up our style," videos 11-20.
