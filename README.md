@@ -174,6 +174,6 @@ Progress as far as I can in the course within the first 30 days of the subscript
 - Starting "Stepping up our style," videos 21-30.
 <!---->
 
-**2/15/21** - Continuing module 5, finishing up stepping up our style
+**2/16/21** - Continuing module 5, finishing up stepping up our style
 
 - Starting "Stepping up our style," videos 31-38.
